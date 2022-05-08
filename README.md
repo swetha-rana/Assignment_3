@@ -6,7 +6,7 @@ File Name:rnn_seq_to_seq.ipynb
 File Description: This file contains the wandb sweep configuration for RNN based seq2seq model to generate data translations from english to tamil  
 By changing sweep config we can select the parameters values to experiment. 
 
-Important Functions:
+Important Functions:  
 **data_preprocessing:**	Preprocess the dataset and pads the output and also responsible for Tokenizing.   
 **seq_seq_model:**	    This function creats and returns the model.  
 **inference_:**         This function performs the inference process to decode the given input.  
@@ -14,6 +14,7 @@ Important Functions:
 
 File Name:Best_model_without_attention.ipynb  
 File Description: This file contains the best configuration for RNN based seq2seq model to generate data translations from english to tamil  
+Important Functions:  
 **data_preprocessing:**	Preprocess the dataset and pads the output and also responsible for Tokenizing.   
 **seq_seq_model:**	    This function creats and returns the model.  
 **inference_:**         This function performs the inference process to decode the given input.  
