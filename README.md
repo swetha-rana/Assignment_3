@@ -2,7 +2,7 @@
 
 This Repository contains the 7 files they are: Best_model_with_attention.ipynb, Best_model_without_attention.ipynb, Seq2Seq_with_attention.ipynb, rnn_seq_to_seq.ipynb,Test_Data_Predictions_with_attention.csv,Test_data_prediction_without_attention.csv
 
-**File Name:** **rnn_seq_to_seq.ipynb ** 
+**File Name:** **rnn_seq_to_seq.ipynb **  
 **File Description:** This file contains the wandb sweep configuration for RNN based seq2seq model to generate data translations from english to tamil  
 By changing sweep config we can select the parameters values to experiment. 
 
